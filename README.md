@@ -1,5 +1,10 @@
 # loputoo_chatgpt
 
+## Link to site
+```
+https://greteneilinn.github.io/loputoo_chatgpt/
+```
+
 ## Project setup
 ```
 npm install
